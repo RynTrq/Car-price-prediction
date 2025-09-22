@@ -61,11 +61,3 @@ Make sure car data.csv is in the project folder.
 Run the notebook or script to train and test the model.
 
 Input car details to get a predicted price.
-
-Future Improvements
-
-Add more data for better accuracy.
-
-Try advanced models like XGBoost or Neural Networks.
-
-Deploy as a simple web app (e.g., Flask/Streamlit).
